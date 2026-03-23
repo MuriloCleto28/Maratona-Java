@@ -1,7 +1,7 @@
-package academy.devdojo.maratonajava.javacore.Dconstrutores.test;
+package academy.devdojo.MaratonaJava.javacore.Dconstrutores.test;
 
 
-import academy.devdojo.maratonajava.javacore.Dconstrutores.dominio.Anime;
+import academy.devdojo.MaratonaJava.javacore.Dconstrutores.dominio.Anime;
 
 public class AnimeTest {
     public static void main(String[] args) {
